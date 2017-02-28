@@ -26,8 +26,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="225">
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+=======
+            <state relative-caret-position="250">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+>>>>>>> version1.0
               <folding />
             </state>
           </provider>
@@ -225,12 +230,16 @@
       <option name="presentableId" value="Default" />
       <updated>1482901434590</updated>
       <workItem from="1482901438611" duration="817000" />
-      <workItem from="1488294227687" duration="2416000" />
+      <workItem from="1488294227687" duration="3207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3293000" />
+=======
+    <option name="totallyTimeSpent" value="4024000" />
+>>>>>>> version1.0
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,6 +327,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+<<<<<<< HEAD
           <folding />
         </state>
       </provider>
@@ -366,6 +376,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+=======
+>>>>>>> version1.0
           <folding />
         </state>
       </provider>
